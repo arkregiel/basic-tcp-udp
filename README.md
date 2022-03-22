@@ -1,2 +1,5 @@
-# basic-tcp-udp
-Basic TCP and UDP programs (server and client
+# Basic TCP and UDP servers and clients (Linux)
+
+ Simple iterative servers receive and print message from clients
+ 
+ Clients send message to the server and exit
